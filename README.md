@@ -9,19 +9,19 @@ Works in **Claude Code** (`~/.claude/skills/`) and **Cursor** (`~/.cursor/skills
 **One-liner — Claude Code only**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flitt-payments-skill ~/.claude/skills/flitt-payments
+git clone https://github.com/Parsa-29/flitt-payments-skill ~/.claude/skills/flitt-payments
 ```
 
 **One-liner — Cursor only**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flitt-payments-skill ~/.cursor/skills/flitt-payments
+git clone https://github.com/Parsa-29/flitt-payments-skill ~/.cursor/skills/flitt-payments
 ```
 
 **Both editors at once (recommended)**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flitt-payments-skill
+git clone https://github.com/Parsa-29/flitt-payments-skill
 cd flitt-payments-skill
 ./install.sh
 ```
