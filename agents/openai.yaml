@@ -1,0 +1,8 @@
+interface:
+  display_name: "Flitt Payments"
+  short_description: "Flitt API auth, signatures, and payment flows"
+  brand_color: "#6366F1"
+  default_prompt: "Use $flitt-payments to integrate or debug Flitt payment API in this project."
+
+policy:
+  allow_implicit_invocation: true
